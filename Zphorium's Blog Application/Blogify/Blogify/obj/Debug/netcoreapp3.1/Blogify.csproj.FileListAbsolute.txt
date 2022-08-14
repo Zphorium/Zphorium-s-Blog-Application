@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.exe
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.deps.json
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.runtimeconfig.json
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.runtimeconfig.dev.json
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.dll
+C:\Users\User\Desktop\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.pdb
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.AssemblyInfo.cs
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.dll
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.pdb
+C:\Users\User\Desktop\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.genruntimeconfig.cache
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.csproj.AssemblyReference.cache
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.AssemblyInfoInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.AssemblyInfo.cs
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.csproj.CoreCompileInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.dll
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.pdb
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.exe
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.deps.json
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.runtimeconfig.json
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.runtimeconfig.dev.json
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.dll
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\bin\Debug\netcoreapp3.1\Blogify.pdb
+C:\Users\zulfu\OneDrive\Desktop\blogh\Zphorium-s-Blog-Application\Zphorium's Blog Application\Blogify\Blogify\obj\Debug\netcoreapp3.1\Blogify.genruntimeconfig.cache
